@@ -1,0 +1,9 @@
+[project]
+name = "pyrogramX"
+version = "0.1.0"
+description = "Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "aiofiles>=24.1.0",
+]

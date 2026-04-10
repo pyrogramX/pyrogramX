@@ -1,0 +1,8 @@
+class {sub_class}({super_class}):
+    {docstring}
+    __slots__ = ()
+    ID = {id}
+    """``str``: RPC Error ID"""
+    MESSAGE = __doc__
+
+
